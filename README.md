@@ -193,4 +193,4 @@ The top five soft max probabilities for the last Speed Limit 100km/h sign were
 |  .05718621  |       Speed limit (100km/h)        |
 |  .0459808   | Dangerous curve to the rightEnd of |
 
-From this results it can be deduced that the neural network shall be further improved from an architectural point of view and that the training data set is not adequate to reach good results. Augmenting the data set with by preprocessing the already existing images and by adding new images should be the key.
+From this results it can be deduced that the neural network shall be further improved from an architectural point of view and that the training data set is not adequate to reach good results. Augmenting the data set by preprocessing the already existing images and by adding new images should be the key.
