@@ -115,8 +115,8 @@ I choosed LeNet architecture for my model as presented in the previous lessons. 
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image5]{:height="128px" width="128px"} ![alt text][image6]{:height="128px" width="128px"} ![alt text][image7]{:height="128px" width="128px"} 
-![alt text][image8]{:height="128px" width="128px"} ![alt text][image9]{:height="128px" width="128px"}
+![alt text][image5] ![alt text][image6] ![alt text][image7]
+![alt text][image8] ![alt text][image9]
 
 * The first image might be difficult to classify because of the shadows on the sign.
 * The second and third are good qualities images.
